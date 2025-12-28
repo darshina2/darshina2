@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I am Darshana
+
+AI Engineer focused on LLMs, GenAI systems, and data pipelines.
+I build production-ready AI tools that turn unstructured data into actionable insights.
 
 <!--
 **darshina2/darshina2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
